@@ -1,4 +1,4 @@
-# 🧙‍♂️ Sistema de Heróis em JavaScript
+# 🧙‍♂️ Sistema de Heróis 
 
 Um projeto simples em JavaScript para demonstrar conceitos de Programação Orientada a Objetos (POO), como classes, métodos e lógica condicional.
 
@@ -23,5 +23,5 @@ Cada tipo de herói possui um ataque diferente, definido através de uma estrutu
 
 ---
 📄 Licença
-Este projeto é livre para uso e estudo.
+Este projeto é para estudos.
 
